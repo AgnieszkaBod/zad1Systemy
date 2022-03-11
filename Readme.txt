@@ -1,0 +1,2 @@
+Projekt 1
+Do wykonania zadania zostało wykorzystane środowisko Intelij IDEA w wersji 2021.1.1 oraz język programowani JAVA w wersji 11. Przy pomocy klasy BufferedReader odczytano zawartość pliku katalog.txt. Zostały również obsłużone wyjątki za pomocą klasy FileNotFoundException. 
